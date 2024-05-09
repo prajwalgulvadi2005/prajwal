@@ -1,2 +1,2 @@
 # prajwal
-My first git report
+My first git reporitory
