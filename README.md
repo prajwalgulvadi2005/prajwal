@@ -1,2 +1,2 @@
 # prajwal
-My first git reporitory
+My first git repository
